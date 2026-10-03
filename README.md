@@ -4,6 +4,21 @@
 
 Instagram'da seni geri takip etmeyenleri ve senin takip etmediğin takipçilerini listeleyen bir Chrome / Edge eklentisi. Kişisel kullanım için yazılmıştır.
 
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/not-following-back.png" width="260" alt="Geri takip etmeyenler listesi"></td>
+    <td align="center"><img src="docs/screenshots/not-followed-by-me.png" width="260" alt="Senin takip etmediklerin listesi"></td>
+    <td align="center" valign="top"><img src="docs/screenshots/scanning.png" width="260" alt="Tarama ekranı"></td>
+  </tr>
+  <tr>
+    <td align="center">Geri takip etmeyenler</td>
+    <td align="center">Senin takip etmediklerin</td>
+    <td align="center">Tarama</td>
+  </tr>
+</table>
+
+<sub>Görüntüler sahte test hesaplarıyla (<code>test_user_001</code> …) oluşturulmuştur, gerçek kullanıcı verisi içermez.</sub>
+
 ## Özellikler
 
 - **Geri takip etmeyenler:** takip ettiğin ama seni takip etmeyen hesaplar.
@@ -72,6 +87,8 @@ Derleme adımı veya bağımlılık yoktur. Dosyaları düzenleyip eklentiyi yen
 ## English
 
 A Chrome / Edge extension that lists who doesn't follow you back on Instagram, and which of your followers you don't follow back. Built for personal use.
+
+The [screenshots above](#follow-lens) show the "not following back" list, the "you don't follow" list and a scan in progress. The interface in them is in Turkish; use the EN button in the panel header to switch to English. They were made with fake test accounts (`test_user_001` …) and contain no real user data.
 
 ### Features
 
